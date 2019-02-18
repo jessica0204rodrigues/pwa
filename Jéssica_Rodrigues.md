@@ -7,7 +7,7 @@
 ** Livro ** :Progressive Web App
 
 ## Objetivo
-    -Resumir o 1° capítulo do livro
+    - Resumir o 1° capítulo do livro
     
 ## Meu resumo:
 Aplicações progressivas são basicamente aplicações que funcionam bem em qualquer dispositivo. 
